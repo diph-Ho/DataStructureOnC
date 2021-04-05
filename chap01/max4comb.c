@@ -16,5 +16,5 @@ int main(){
     printf("%d\n", max4(1,5,3,4));
     printf("%d\n", max4(1,6,3,4));
     printf("%d\n", max4(1,2,7,4));
-    
+
 }
