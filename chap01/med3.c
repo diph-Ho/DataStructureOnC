@@ -15,7 +15,7 @@ int med3(int num1, int num2, int num3)
    }else if(num1 < num3){
        return num1;
    }else{
-       return 3;
+       return num3;
    }
 }
 
